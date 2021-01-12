@@ -5,7 +5,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/feifan-lu-0b8b02142/
 
 ## Projects:
 
-### Climate Bet : Statistical View of Global Warming
+### [Climate Bet : Statistical View of Global Warming](https://github.com/FeifanLu/Climate_bet)
 
 **Keywords (Global Warming, ARIMA, ETS, TBATS, Naïve Model, Time Series)**
 
