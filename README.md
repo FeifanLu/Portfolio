@@ -17,9 +17,11 @@ I dived into the ["Climate Bet"](http://www.theclimatebet.com/) and looked at th
 
 * Utilize the rolling window cross-validation to find the best model for each dataset.
 
-* Train the two best models on the pre-2007 data and use them to make predictions. Then make the naïve model forecast of constant temperature per [Mr. Armstrong's method](http://www.kestencgreen.com/G&A-Skyfall.pdf)  and compare the three models using the actual temperatures for 2007-2017 (a period of the bet).
+* Train the two best models on the pre-2007 data and use them to make predictions. Then make the naïve model forecast of constant temperature per [Mr. Armstrong's method](http://www.kestencgreen.com/G&A-Skyfall.pdf)  and use it as a benchmark model to compare with my best two models using the actual temperatures for 2007-2017 (a period of the bet).
 
-* Repeat the same analyses starting in the year 1999 with 10- and 20-year time-intervals.
+* Repeat the same analyses starting in the year 1999 with 10- and 20-year time-intervals
 
-<img src="https://github.com/FeifanLu/Climate_bet/blob/main/Climate_bet/Result.png" width="800" length="600">
+* Justify the outcome and identify the flaws in UK MET dataset.
+
+<img src="https://github.com/FeifanLu/Climate_bet/blob/main/Climate_bet/Results.png" width="800" length="600">
 
